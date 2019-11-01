@@ -1,3 +1,3 @@
 # MyFirstRepo
 
-## life is great with my lover
+## life is great with my mac
